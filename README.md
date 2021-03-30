@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently pursuing CS at the Chknese University of Hong Kong
+- 🌱 I’m currently pursuing CS at the Chinese University of Hong Kong
 - 👯 I’m looking to collaborate on Open Source Projects
 - 💬 Ask me about Entrepreneurship and Innovation
 - ⚡ Fun fact: I'm a Vegetarian :) 
