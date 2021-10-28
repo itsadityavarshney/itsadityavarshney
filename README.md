@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently pursuing CS at the Chinese University of Hong Kong
-- 👯 I’m looking to collaborate on Open Source Projects
-- 💬 Ask me about Entrepreneurship and Innovation
+- 🌱 I’m currently studying CS at the Chinese University of Hong Kong
+- 💬 I'm currently specialising in AI 🔭
 
 <!--
 **itsadityavarshney/itsadityavarshney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
